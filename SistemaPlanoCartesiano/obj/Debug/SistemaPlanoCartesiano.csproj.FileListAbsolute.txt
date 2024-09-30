@@ -1,0 +1,15 @@
+D:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\PlanoCartesiano_Dev\SistemaPlanoCartesiano\bin\Debug\SistemaPlanoCartesiano.exe.config
+D:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\PlanoCartesiano_Dev\SistemaPlanoCartesiano\bin\Debug\SistemaPlanoCartesiano.exe
+D:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\PlanoCartesiano_Dev\SistemaPlanoCartesiano\bin\Debug\SistemaPlanoCartesiano.pdb
+D:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\PlanoCartesiano_Dev\SistemaPlanoCartesiano\obj\Debug\SistemaPlanoCartesiano.csproj.AssemblyReference.cache
+D:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\PlanoCartesiano_Dev\SistemaPlanoCartesiano\obj\Debug\SistemaPlanoCartesiano.csproj.CoreCompileInputs.cache
+D:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\PlanoCartesiano_Dev\SistemaPlanoCartesiano\obj\Debug\SistemaPlanoCartesiano.exe
+D:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\PlanoCartesiano_Dev\SistemaPlanoCartesiano\obj\Debug\SistemaPlanoCartesiano.pdb
+F:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\PlanoCartesiano_Dev\SistemaPlanoCartesiano\bin\Debug\SistemaPlanoCartesiano.exe.config
+F:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\PlanoCartesiano_Dev\SistemaPlanoCartesiano\bin\Debug\SistemaPlanoCartesiano.exe
+F:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\PlanoCartesiano_Dev\SistemaPlanoCartesiano\bin\Debug\SistemaPlanoCartesiano.pdb
+F:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\PlanoCartesiano_Dev\SistemaPlanoCartesiano\obj\Debug\SistemaPlanoCartesiano.csproj.AssemblyReference.cache
+F:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\PlanoCartesiano_Dev\SistemaPlanoCartesiano\obj\Debug\SistemaPlanoCartesiano.csproj.SuggestedBindingRedirects.cache
+F:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\PlanoCartesiano_Dev\SistemaPlanoCartesiano\obj\Debug\SistemaPlanoCartesiano.csproj.CoreCompileInputs.cache
+F:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\PlanoCartesiano_Dev\SistemaPlanoCartesiano\obj\Debug\SistemaPlanoCartesiano.exe
+F:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\PlanoCartesiano_Dev\SistemaPlanoCartesiano\obj\Debug\SistemaPlanoCartesiano.pdb
